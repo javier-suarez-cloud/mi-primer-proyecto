@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+# Mi Primer Proyecto - Vue.js + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Proyecto desarrollado para la asignatura **Lenguaje de Programación Web II**
+(Instituto Profesional Virginio Gómez, semestre 2026-2).
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Docente: Mg. Pablo Calderón Cornejo
+
+## Actividad N°1
+
+Instalación y configuración del entorno de desarrollo moderno para aplicaciones
+Vue.js, utilizando Vite, Node.js y GitHub.
+
+## Tecnologías utilizadas
+
+- Vue 3
+- Vite
+- JavaScript
+- Git / GitHub
+
+## Cómo ejecutar el proyecto
+
+```bash
+npm install
+npm run dev
+```
+
+Luego abrir el navegador en `http://localhost:5173`
+
+## Autor
+
+Javier Suárez
